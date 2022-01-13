@@ -15,6 +15,6 @@ Army AI is implemented with a Behavior Tree and a single unit's AI is made with 
 <table width="100%">
   <tr>
     <td width="50%"><img src="https://user-images.githubusercontent.com/38283075/149372824-e463183f-c556-421b-9fba-d618e54ba7e2.png" alt="HFSM"></td>
-    <td width="50%"><img src="https://user-images.githubusercontent.com/38283075/149372553-308fa1c2-09cc-46f0-a767-e34f5c0589fa.png" alt="Behavior Tree"></td>
+    <td width="50%"><img src="https://user-images.githubusercontent.com/38283075/149390401-c29d26c9-9072-4489-a905-84eba9887e8a.png" alt="Behavior Tree"></td>
   </tr>
 </table>
